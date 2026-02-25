@@ -1,6 +1,7 @@
 # Monte Carlo Options Universe
 
 ### dev/creator = tubakhxn
+<img width="2309" height="1587" alt="image" src="https://github.com/user-attachments/assets/1a1158bf-f283-4cea-a182-472d29470c2e" />
 
 ## What is this project?
 This project is a Monte Carlo simulation tool for options trading. It allows users to model and analyze the behavior of financial options using Monte Carlo methods, which involve running many random simulations to estimate the probability of different outcomes. This can help traders and analysts better understand risk and potential returns in options markets.
@@ -16,3 +17,4 @@ This project is a Monte Carlo simulation tool for options trading. It allows use
 5. Start making your changes!
 
 If you have any questions or want to contribute, feel free to open an issue or pull request.
+
